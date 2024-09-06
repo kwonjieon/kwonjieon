@@ -24,17 +24,31 @@ Here are some ideas to get you started:
 </br>
 
 🌱 Learning backend development
-✨ Follow me !
+</br>
+✨ Follow Me !!
+
+
 
 
 
 ### History
-  - The University of Sejong University - Bachelor of Computer Engineering(2016.03 ~ 2024.08)
+  - Sejong University - Bachelor of Computer Engineering(2016.03 ~ 2024.08)
   - 신한투자증권 프로 디지털 아카데미 5th (2024.09 ~ current)
   - SQLD (2024.06.21, 한국데이터산업진흥원)
   - Capstone 창의 설계 경진대회 - 대상
   - AI를 활용한 지역상권 활성화 공모전 5위
 
+</br>
+
+<div align="center">
+
+## 📚 Final Vocabulary
+
+ 🌟 **Inspiration** 🌟
+
+</div>
+
+</br>
 </br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -49,8 +63,8 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
 
