@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'>😄 Kwon Ji Eon</h1>
+<h1>😄 Kwon Ji Eon</h1>
 
 
 <h2>About Me</h2>
 🌱 Learning backend development</br>
 ✨ Follow Me !!
-<p align='center'>
-  <br>
+</br>
+</br>
+
+
   <img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo0411">
-  <img src='https://github-readme-stats.vercel.app/api?username=kwonjieon&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
-</p>
+  
 
 
 <h2>History</h2>
