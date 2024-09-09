@@ -15,34 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 😄 Kwon Ji Eon
+<h1 align='center'>😄 Kwon Ji Eon</h1>
 
 
-### About Me
-
-<img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo0411">
-</br>
-
-🌱 Learning backend development
-</br>
+<h2>About Me</h2>
+🌱 Learning backend development</br>
 ✨ Follow Me !!
+<p align='center'>
+  <br>
+  <img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo0411">
+  <img src='https://github-readme-stats.vercel.app/api?username=kwonjieon&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
+</p>
 
 
-
-
-
-### History
-  - Sejong University - Bachelor of Computer Engineering(2016.03 ~ 2024.08)
-  - 신한투자증권 프로 디지털 아카데미 5th (2024.09 ~ current)
-  - SQLD (2024.06.21, 한국데이터산업진흥원)
-  - Capstone 창의 설계 경진대회 - 대상
-  - AI를 활용한 지역상권 활성화 공모전 5위
-
+<h2>History</h2>
+<ul>
+  <li>Sejong University - Bachelor of Computer Engineering(2016.03 ~ 2024.08)</li>
+  <li>신한투자증권 프로 디지털 아카데미 5th (2024.09 ~ current)</li>
+  <li>SQLD (2024.06.21, 한국데이터산업진흥원)</li>
+  <li>Capstone 창의 설계 경진대회 - 대상</li>
+  <li>AI를 활용한 지역상권 활성화 공모전 5위</li>
+</ul>
 </br>
 
 <div align="center">
 
-## 📚 Final Vocabulary
+<h2 align="center">📚 Final Vocabulary</h2> 
 
  🌟 **Inspiration** 🌟
 
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 <div align='center'>
