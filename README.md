@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📚 Final Vocabulary</h2> 
 
-  <p style="font-size:18">🌟 Inspiration 🌟</p>
+ <h3> 🌟 Inspiration 🌟</h3>
 
 </div>
 
