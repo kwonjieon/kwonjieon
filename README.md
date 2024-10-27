@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </br>
 
 
-  <img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjo0411">
+
   
 
 
@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
+<p>Techs that I've used at least once</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0D7BF7&center=true&vCenter=true&width=750&lines=Techs+that+I've+used+at+least+once)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0D7BF7&center=true&vCenter=true&width=750&lines=Techs+that+I've+used+at+least+once)](https://git.io/typing-svg)-->
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
