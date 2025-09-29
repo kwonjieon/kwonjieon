@@ -15,36 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>😄 Kwon Ji Eon</h1>
-
-
-<h2>About Me</h2>
-🌱 Learning backend development</br>
-</br>
-</br>
+# Kwon Ji Eon
 
 
 
   
 
 
-<h2>History</h2>
+### History
 <ul>
   <li>Sejong University - Bachelor of Computer Engineering(2016.03 ~ 2024.08)</li>
-  <li>신한투자증권 프로 디지털 아카데미 5th (2024.09 ~ current)</li>
-  <li>SQLD (2024.06.21, 한국데이터산업진흥원)</li>
-  <li>Capstone 창의 설계 경진대회 - 대상</li>
-  <li>AI를 활용한 지역상권 활성화 공모전 5위</li>
+  <li>현대오토에버 (2025.04 ~ current)</li>
+  
 </ul>
 </br>
 
-<div align="center">
 
-<h2 align="center">📚 Final Vocabulary</h2> 
-
- <h3> 🌟 Inspiration 🌟</h3>
-
-</div>
 
 </br>
 
@@ -64,16 +50,18 @@ Here are some ideas to get you started:
 -->
 
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=green) 
-  ![Spring Security](https://img.shields.io/badge/Spring%20Security-black?style=for-the-badge&logo=Spring%20Security&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+ ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
 
-
+<!--
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
   ![Travis CI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travisci&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
- 
+ -->
 
 </div>
 
